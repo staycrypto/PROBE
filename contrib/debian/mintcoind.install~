@@ -1,2 +1,0 @@
-debian/bin/mintcoind usr/bin
-src/mintcoind usr/lib/mintcoin
